@@ -1,6 +1,9 @@
 <h1 align="center">🌸 Hello There, Welcome to My Profile 🌸</h1>
 
 <h4 align="center">I am Abdul Azim, currently pursuing a degree in Software Engineering in Universiti Malaya</h4>
+<p align="center">
+  <img src="https://github.com/SoftwareMaintenanceEvolution/tutorial-1-ImAzimm/blob/profile-upload/my_pic.jpg" width="250" />
+</p>
 
 ---
 
