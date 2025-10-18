@@ -1,11 +1,33 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LQr4ft17)
-# Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
-I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
+<h1 align="center">🌸 Hello There, Welcome to My Profile 🌸</h1>
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+<h4 align="center">I am Abdul Azim, currently pursuing a degree in Software Engineering in Universiti Malaya</h4>
+<p align="center">
+  <img src="https://github.com/SoftwareMaintenanceEvolution/tutorial-1-ImAzimm/blob/profile-upload/my_pic.jpg" width="250" />
+</p>
 
-## GitHub Profile
+---
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+## 🎯 About Me
 
+- 🎓 Currently pursuing a degree in **Software Engineering**
+- 💻 Interested in **mobile app development**, **IoT**, and **AI-assisted solutions**
+- ⚙️ Enjoys integrating software and hardware to improve quality of life, especially in education and healthcare
+- 🌱 Always exploring new technologies and frameworks to strengthen my technical foundation
+
+---
+
+## 🧩 My expectation as a Software Maintenance Student
+
+In the world of software, development doesn’t end when a program runs — it truly begins when people start using it.  
+As a **Software Maintenance student**, I see myself as someone who ensures systems stay **reliable, adaptable, and long-lasting**.
+
+Through this course, I aim to:
+1. Understand how to **analyze and improve existing systems**
+2. Strengthen my ability to **read, refactor, and debug legacy code**
+3. Learn how to **apply software evolution principles** in real-world projects  
+4. Master tools like **Git**, **CI/CD pipelines**, and **testing frameworks** for effective change management  
+5. Develop the **discipline and mindset** needed to maintain clean, efficient, and sustainable software  
+
+💬 *I believe maintenance is where real engineering begins — where understanding, patience, and precision come together to keep software alive.*
+
+Please view my presonalized GitHub [[here](https://github.com/ImAzimm)]
